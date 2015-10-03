@@ -1,6 +1,15 @@
 #!/usr/bin/env python
 
 
+class Prueba(object):
+    '''
+    Comment
+    '''
+
+    def __init__(self):
+        pass
+
+
 def substract(a=0, b=0):
     return a - b
 
