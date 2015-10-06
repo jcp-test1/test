@@ -7,7 +7,7 @@ class Prueba(object):
     '''
 
     def __init__(self):
-        pass
+        print('asdasd')
 
 
 def substract(a=0, b=0):
